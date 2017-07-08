@@ -1,0 +1,19 @@
+
+
+{
+  "sProcessing":   "جارى التحميل",
+  "sLengthMenu":   "أظهر تعديلات _MENU_",
+  "sZeroRecords":  "لم يعثر على أية سجلات",
+  "sInfo":         "Ø¥Ø¸Ù‡Ø§Ø± _START_ Ø¥Ù„Ù‰ _END_ Ù…Ù† Ø£ØµÙ„ _TOTAL_ Ù…ÙØ¯Ø®Ù„",
+  "sInfoEmpty":    "يعرض 0 إلى 0 من أصل 0 سجل",
+  "sInfoFiltered": "مدخل الماكس مثلثا من مجموع",
+  "sInfoPostFix":  "",
+  "sSearch":       "بحث",
+  "sUrl":          "",
+  "oPaginate": {
+    "sFirst":    "الأول",
+    "sPrevious": "السابق",
+    "sNext":     "التالى",
+    "sLast":     "الأخير"
+  }
+}
